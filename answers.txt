@@ -1,0 +1,14 @@
+Q1:
+Server based authentication, login page/admin page.
+
+Q2:
+HTTP basic authentication.
+
+Q3:
+Session authentication does not need a token, useful for AJAX. 
+Token can have an expiration time so you can stay signed in for longer wihtout having to sign in with username and password every time.
+
+Q4:
+bitbucket sends you to Google, which lets you log in to a Google account, Google tells bitbucket that you are authenticated and bitbucket creates an account associated with the Google OAuth
+
+Q5:
